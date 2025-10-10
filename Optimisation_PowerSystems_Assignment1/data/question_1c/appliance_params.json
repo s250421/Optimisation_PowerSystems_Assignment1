@@ -1,0 +1,44 @@
+{
+    "appliances": [
+        {
+            "name": "Refrigerator",
+            "max_power_kW": 1.5,
+            "min_on_time_h": 24,
+            "min_off_time_h": 0,
+            "max_ramp_rate_up_ratio": 0.1,
+            "max_ramp_rate_down_ratio": 0.1
+        },
+        {
+            "name": "Washing Machine",
+            "max_power_kW": 2.0,
+            "min_on_time_h": 1,
+            "min_off_time_h": 1,
+            "max_ramp_rate_up_ratio": 0.5,
+            "max_ramp_rate_down_ratio": 0.5
+        },
+        {
+            "name": "Dishwasher",
+            "max_power_kW": 1.8,
+            "min_on_time_h": 1,
+            "min_off_time_h": 1,
+            "max_ramp_rate_up_ratio": 0.5,
+            "max_ramp_rate_down_ratio": 0.5
+        },
+        {
+            "name": "Electric Oven",
+            "max_power_kW": 3.0,
+            "min_on_time_h": 1,
+            "min_off_time_h": 1,
+            "max_ramp_rate_up_ratio": 0.5,
+            "max_ramp_rate_down_ratio": 0.5
+        },
+        {
+            "name": "Air Conditioner",
+            "max_power_kW": 3.5,
+            "min_on_time_h": 1,
+            "min_off_time_h": 1,
+            "max_ramp_rate_up_ratio": 0.3,
+            "max_ramp_rate_down_ratio": 0.3
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "production_profiles": [
+        {
+            "hour": 0,
+            "solar_power_kW": 0
+        },
+        {
+            "hour": 1,
+            "solar_power_kW": 0
+        },
+        {
+            "hour": 2,
+            "solar_power_kW": 0
+        },
+        {
+            "hour": 3,
+            "solar_power_kW": 0
+        },
+        {
+            "hour": 4,
+            "solar_power_kW": 0
+        },
+        {
+            "hour": 5,
+            "solar_power_kW": 0
+        },
+        {
+            "hour": 6,
+            "solar_power_kW": 1.5
+        },
+        {
+            "hour": 7,
+            "solar_power_kW": 5.0
+        },
+        {
+            "hour": 8,
+            "solar_power_kW": 10.0
+        },
+        {
+            "hour": 9,
+            "solar_power_kW": 15.0
+        },
+        {
+            "hour": 10,
+            "solar_power_kW": 20.0
+        },
+        {
+            "hour": 11,
+            "solar_power_kW": 25.0
+        },
+        {
+            "hour": 12,
+            "solar_power_kW": 30.0
+        },
+        {
+            "hour": 13,
+            "solar_power_kW": 28.0
+        },
+        {
+            "hour": 14,
+            "solar_power_kW": 25.0
+        },
+        {
+            "hour": 15,
+            "solar_power_kW": 20.0
+        },
+        {
+            "hour": 16,
+            "solar_power_kW": 15.0
+        },
+        {
+            "hour": 17,
+            "solar_power_kW": 10.0
+        },
+        {
+            "hour": 18,
+            "solar_power_kW": 5.0
+        },
+        {
+            "hour": 19,
+            "solar_power_kW": 2.0
+        },
+        {
+            "hour": 20,
+            "solar_power_kW": 0
+        },
+        {
+            "hour": 21,
+            "solar_power_kW": 0
+        },
+        {
+            "hour": 22,
+            "solar_power_kW": 0
+        },
+        {
+            "hour": 23,
+            "solar_power_kW": 0
+        }
+    ]
+}
