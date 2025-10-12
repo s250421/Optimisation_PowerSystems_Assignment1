@@ -1,8 +1,0 @@
-{
-    "import_tariff_DKK/kWh": 1.5,
-    "export_tariff_DKK/kWh": 0.5,
-    "max_import_kW": 100,
-    "max_export_kW": 50,
-    "penalty_excess_import_DKK/kWh": 2.0,
-    "penalty_excess_export_DKK/kWh": 1.0
-}

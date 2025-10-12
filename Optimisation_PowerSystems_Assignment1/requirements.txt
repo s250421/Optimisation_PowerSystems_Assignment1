@@ -1,4 +1,0 @@
-gurobipy
-pandas
-numpy
-matplotlib
